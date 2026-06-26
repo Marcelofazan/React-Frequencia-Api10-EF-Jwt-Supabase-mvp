@@ -14,7 +14,7 @@ Aplicativo de controle de presença em React e API CQRS com autenticação Jwt e
 
 | Tecnologia | Descrição |
 |-----------|------------|
-| **CQRS** | É um padrão arquitetural que separa as operações de escrita (comandos) das operações de leitura (consultas) |
+| **CQRS** | Padrão arquitetural que separa as operações de escrita (comandos) das operações de leitura (consultas) |
 | **CORS** | Mecanismo de segurança implementado no navegador e não uma responsabilidade do frontend ou backend |
 | **Fluent Validation** | Biblioteca para regras de validação de forma simples, legível e desacoplada|
 | **JWT** | É um crachá digital usado para identificar usuários e trocar informações de forma segura entre computadores |
